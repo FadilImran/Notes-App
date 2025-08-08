@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "4",
+      "content": "React",
+      "important": true
+    },
+    {
+      "id": "5",
+      "content": "Vite",
+      "important": true
+    },
+    {
+      "id": "f77b",
+      "content": "Angular",
+      "important": false
+    },
+    {
+      "id": "b0be",
+      "content": "Full Stack",
+      "important": true
+    },
+    {
+      "id": "2f26",
+      "content": "POST method",
+      "important": false
+    }
+  ]
+}
